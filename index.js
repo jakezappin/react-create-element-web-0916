@@ -7,6 +7,6 @@ const list =
         React.createElement('li', { class: 'white' }, 'Vanilla'),
         React.createElement('li', { class: 'yellow' }, 'Banana')
       ]
-    ));
+    )); 
 
 ReactDOM.render(list, document.getElementById('main'));
